@@ -9,4 +9,3 @@ This is a collection of pre-designed and customizable email templates built with
 - **Reusable Components**: The templates are structured using reusable components, allowing for modular design and easy maintenance.
 - **Cross-client Compatibility**: The templates are thoroughly tested to ensure compatibility with major email clients such as Gmail, Outlook, Yahoo Mail, and more.
 - **Accessibility**: Accessibility best practices are followed to ensure that the templates are inclusive and usable for everyone.
-- **Well-documented**: Each template comes with detailed documentation, guiding you through the customization process and providing helpful tips and guidelines.
