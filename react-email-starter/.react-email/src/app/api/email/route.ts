@@ -3,8 +3,8 @@ import { Resend } from 'resend'
 
 import CheckOutWebsite from "../../../../../../react-email-starter/emails/checkwebsite"
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-//Your API Key
+//Add your API Key here:
+const resend = new Resend('RESEND_API_KEY');
 
 export async function GET() {
     resend.emails.send({
