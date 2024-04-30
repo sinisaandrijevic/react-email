@@ -2,7 +2,10 @@
 
 This project demonstrates the integration of React Email in a Next.js project, allowing you to create and send emails using React components and an API route. It uses Resend, which is the email API for developers.
 
-It has a collection of pre-designed and customizable email templates built with React, which are specifically designed to be compatible with various email clients and devices, ensuring consistent rendering and optimal user experience.
+> [!IMPORTANT]
+> **Before you start with the app, ensure you have an active account on Resend and have obtained your API key. Replace `'RESEND_API_KEY'` in `/src/app/api/email/route.ts` with your personalized API key.**
+
+Explore a collection of pre-designed and customizable email templates built with React, which are specifically made to be compatible with various email clients and devices, ensuring consistent rendering and optimal user experience.
 
 ## Features
 
